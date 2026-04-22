@@ -69,9 +69,12 @@ Model Storage: Pickle
 
 **_🎯 Project Objective_**
 
-To build an end-to-end ML system that:
+To build an end-to-end ML system that: 
+
 Predicts churn accurately
+
 Identifies high-risk customers
+
 Supports data-driven decision making
 
 **_🧠 Key Highlights_**
