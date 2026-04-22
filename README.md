@@ -2,7 +2,7 @@ _**ChurnSense AI — ML-Powered Customer Churn Prediction & Retention Platform**
 
 ChurnSense AI is a machine learning–driven web application that predicts customer churn, segments users by risk level, and provides actionable insights to improve customer retention strategies in the telecom domain.
 
-📌 _Overview_
+**📌 _Overview_**
 
 Customer churn is a major challenge in the telecom industry. This project uses Machine Learning to:
 
@@ -11,9 +11,9 @@ Estimate churn probability
 Segment customers into risk levels
 Provide business insights for retention strategies
 
-_🖥️_ _Features_
+**_🖥️_ _Features_
 
-_🔮 Predict Customer_
+_🔮 Predict Customer_**
 
 Input individual customer details
 Get real-time churn probability
@@ -23,7 +23,7 @@ Output:
 ✅ Likely to Stay
 ⚠ High Churn Risk
 
-_📂 Bulk Prediction_
+**_📂 Bulk Prediction_**
 
 Upload CSV file with multiple customers
 Get predictions and probabilities for all records
@@ -35,7 +35,7 @@ Visualizations:
 Churn probability distribution
 Risk segmentation pie chart
 
-_📊 Churn Analytics_
+**_📊 Churn Analytics_**
 
 Churn rate by:
 Contract type
@@ -47,8 +47,8 @@ Most important churn driver insight
 Model summary:
 Algorithm: Random Forest
 
-_📊 Dataset_
-
+**_📊 Dataset_
+**
 The model is trained on a telecom dataset containing:
 
 Customer demographics
@@ -58,7 +58,7 @@ Billing information
 🎯 Target Variable:
 Churn (Yes / No)
 
-_🛠️ Tech Stack_
+**_🛠️ Tech Stack_**
 
 Machine Learning: Random Forest Classifier
 Data Processing: pandas, NumPy
@@ -67,31 +67,31 @@ Visualization: Plotly
 Web App: Streamlit
 Model Storage: Pickle
 
-_🎯 Project Objective_
+**_🎯 Project Objective_**
 
 To build an end-to-end ML system that:
 Predicts churn accurately
 Identifies high-risk customers
 Supports data-driven decision making
 
-_🧠 Key Highlights_
+**_🧠 Key Highlights_**
 
 End-to-end ML pipeline
 Real-time + bulk prediction
 Interactive dashboards
 Business-focused insights
 
-_📈 Future Improvements_
+**_📈 Future Improvements_**
 
 Add advanced models (XGBoost, LightGBM)
 Improve evaluation (F1-score, ROC-AUC)
 Deploy on cloud (AWS / Streamlit Cloud)
 Integrate database support
 
-_👤 Author_
+**_👤 Author_**
 
 Vaibhavi Dave
 
-_⭐ Support_
+**_⭐ Support_**
 
 If you found this useful, consider giving a ⭐ on GitHub!
