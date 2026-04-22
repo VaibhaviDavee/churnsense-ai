@@ -11,9 +11,9 @@ Estimate churn probability
 Segment customers into risk levels
 Provide business insights for retention strategies
 
-**_🖥️_ _Features_
+**_🖥️_ _Features_**
 
-_🔮 Predict Customer_**
+**_🔮 Predict Customer_**
 
 Input individual customer details
 Get real-time churn probability
@@ -47,8 +47,8 @@ Most important churn driver insight
 Model summary:
 Algorithm: Random Forest
 
-**_📊 Dataset_
-**
+**_📊 Dataset_**
+
 The model is trained on a telecom dataset containing:
 
 Customer demographics
