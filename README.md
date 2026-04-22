@@ -18,12 +18,13 @@ _🔮 Predict Customer_
 Input individual customer details
 Get real-time churn probability
 Gauge chart visualization
+
 Output:
 ✅ Likely to Stay
 ⚠ High Churn Risk
-_
-📂 Bulk Prediction
-_
+
+_📂 Bulk Prediction_
+
 Upload CSV file with multiple customers
 Get predictions and probabilities for all records
 Risk segmentation:
