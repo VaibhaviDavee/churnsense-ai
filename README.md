@@ -60,7 +60,7 @@ Internet service type
 
 Helps identify high-risk segments
 
-🤖 Model Intelligence
+_**🤖 Model Intelligence**_
 
 Top 15 features influencing churn
 
