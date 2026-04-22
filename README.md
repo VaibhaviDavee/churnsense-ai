@@ -1,4 +1,4 @@
-**ChurnSense AI — ML-Powered Customer Churn Prediction & Retention Platform**
+_**ChurnSense AI — ML-Powered Customer Churn Prediction & Retention Platform**_
 
 ChurnSense AI is a machine learning–driven web application that predicts customer churn, segments users by risk level, and provides actionable insights to improve customer retention strategies in the telecom domain.
 
