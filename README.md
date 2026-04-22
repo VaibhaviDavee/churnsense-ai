@@ -2,7 +2,7 @@
 
 ChurnSense AI is a machine learning–driven web application that predicts customer churn, segments users by risk level, and provides actionable insights to improve customer retention strategies in the telecom domain.
 
-📌 Overview
+📌 _Overview_
 
 Customer churn is a major challenge in the telecom industry. This project uses Machine Learning to:
 
@@ -11,9 +11,9 @@ Estimate churn probability
 Segment customers into risk levels
 Provide business insights for retention strategies
 
-🖥️ Features
+_🖥️_ _Features_
 
-🔮 Predict Customer
+_🔮 Predict Customer_
 
 Input individual customer details
 Get real-time churn probability
@@ -21,9 +21,9 @@ Gauge chart visualization
 Output:
 ✅ Likely to Stay
 ⚠ High Churn Risk
-
+_
 📂 Bulk Prediction
-
+_
 Upload CSV file with multiple customers
 Get predictions and probabilities for all records
 Risk segmentation:
@@ -34,8 +34,8 @@ Visualizations:
 Churn probability distribution
 Risk segmentation pie chart
 
-📊 Churn Analytics
-
+_📊 Churn Analytics
+_
 Churn rate by:
 Contract type
 Internet service type
@@ -46,8 +46,8 @@ Most important churn driver insight
 Model summary:
 Algorithm: Random Forest
 
-📊 Dataset
-
+_📊 Dataset
+_
 The model is trained on a telecom dataset containing:
 
 Customer demographics
@@ -55,10 +55,9 @@ Service usage details
 Billing information
 
 🎯 Target Variable:
-
 Churn (Yes / No)
 
-🛠️ Tech Stack
+_🛠️ Tech Stack_
 
 Machine Learning: Random Forest Classifier
 Data Processing: pandas, NumPy
@@ -67,7 +66,7 @@ Visualization: Plotly
 Web App: Streamlit
 Model Storage: Pickle
 
-⚙️ Setup & Installation
+_⚙️ Setup & Installation_
 
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/churnsense-ai.git
@@ -96,7 +95,7 @@ Save model files (.pkl)
 5️⃣ Run the Application
 streamlit run app.py
 
-📍 Open in browser:
+_📍 Open in browser:_
 
 http://localhost:8501
 
@@ -116,31 +115,31 @@ ChurnSense-AI/
 ├── requirements.txt
 └── README.md
 
-🎯 Project Objective
+_🎯 Project Objective_
 
 To build an end-to-end ML system that:
 Predicts churn accurately
 Identifies high-risk customers
 Supports data-driven decision making
 
-🧠 Key Highlights
+_🧠 Key Highlights_
 
 End-to-end ML pipeline
 Real-time + bulk prediction
 Interactive dashboards
 Business-focused insights
 
-📈 Future Improvements
+_📈 Future Improvements_
 
 Add advanced models (XGBoost, LightGBM)
 Improve evaluation (F1-score, ROC-AUC)
 Deploy on cloud (AWS / Streamlit Cloud)
 Integrate database support
 
-👤 Author
-
+👤 Author_
+_
 Vaibhavi Dave
 
-⭐ Support
+_⭐ Support_
 
 If you found this useful, consider giving a ⭐ on GitHub!
