@@ -67,55 +67,6 @@ Visualization: Plotly
 Web App: Streamlit
 Model Storage: Pickle
 
-_⚙️ Setup & Installation_
-
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/churnsense-ai.git
-cd churnsense-ai
-
-2️⃣ Create Virtual Environment (Recommended)
-Windows:
-python -m venv venv
-venv\Scripts\activate
-macOS/Linux:
-python3 -m venv venv
-source venv/bin/activate
-
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-
-4️⃣ Train the Model
-python train_model.py
-✔ This will:
-Clean and preprocess data
-Encode categorical features
-Scale data using StandardScaler
-Train Random Forest model
-Save model files (.pkl)
-
-5️⃣ Run the Application
-streamlit run app.py
-
-_📍 Open in browser:_
-
-http://localhost:8501
-
-📂 Project Structure
-ChurnSense-AI/
-│
-├── Data/
-│   └── Churn.csv
-│
-├── Saved_Model/
-│   ├── churn_model.pkl
-│   ├── feature_columns.pkl
-│   └── standard_scaler.pkl
-│
-├── app.py
-├── train_model.py
-├── requirements.txt
-└── README.md
-
 _🎯 Project Objective_
 
 To build an end-to-end ML system that:
