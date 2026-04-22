@@ -35,8 +35,8 @@ Visualizations:
 Churn probability distribution
 Risk segmentation pie chart
 
-_📊 Churn Analytics
-_
+_📊 Churn Analytics_
+
 Churn rate by:
 Contract type
 Internet service type
@@ -47,8 +47,8 @@ Most important churn driver insight
 Model summary:
 Algorithm: Random Forest
 
-_📊 Dataset
-_
+_📊 Dataset_
+
 The model is trained on a telecom dataset containing:
 
 Customer demographics
@@ -88,8 +88,8 @@ Improve evaluation (F1-score, ROC-AUC)
 Deploy on cloud (AWS / Streamlit Cloud)
 Integrate database support
 
-👤 Author_
-_
+_👤 Author_
+
 Vaibhavi Dave
 
 _⭐ Support_
