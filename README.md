@@ -8,10 +8,10 @@
 
 Customer churn is a critical challenge in the telecom industry. This project leverages **Machine Learning** to:
 
-* 🔮 Predict whether a customer will churn
-* 📊 Estimate churn probability
-* 🧩 Segment customers by risk level
-* 💡 Generate business insights for retention strategies
+*  Predict whether a customer will churn
+*  Estimate churn probability
+*  Segment customers by risk level
+*  Generate business insights for retention strategies
 
 ---
 
@@ -85,11 +85,11 @@ The model is trained on telecom customer data including:
 
 | Category            | Tools Used                   |
 | ------------------- | ---------------------------- |
-| 🤖 Machine Learning | Random Forest (scikit-learn) |
-| 📊 Data Processing  | pandas, NumPy                |
-| 📈 Visualization    | Plotly                       |
-| 🌐 Web App          | Streamlit                    |
-| 💾 Model Storage    | Pickle                       |
+|  Machine Learning   | Random Forest (scikit-learn) |
+|  Data Processing    | pandas, NumPy                |
+|  Visualization      | Plotly                       |
+|  Web App            | Streamlit                    |
+|  Model Storage      | Pickle                       |
 
 ---
 
@@ -105,19 +105,19 @@ To build a scalable ML system that:
 
 ## 🧠 Key Highlights
 
-* ✅ End-to-end ML pipeline
-* ⚡ Real-time + bulk predictions
-* 📊 Interactive dashboards
-* 💼 Business-focused insights
+* End-to-end ML pipeline
+* Real-time + bulk predictions
+* Interactive dashboards
+* Business-focused insights
 
 ---
 
 ## 📈 Future Improvements
 
-* 🚀 Integrate advanced models (XGBoost, LightGBM)
-* 📉 Improve evaluation (F1-score, ROC-AUC)
-* ☁️ Deploy on cloud (AWS / Streamlit Cloud)
-* 🗄️ Add database integration
+* Integrate advanced models (XGBoost, LightGBM)
+* Improve evaluation (F1-score, ROC-AUC)
+* Deploy on cloud (AWS / Streamlit Cloud)
+* Add database integration
 
 ---
 
