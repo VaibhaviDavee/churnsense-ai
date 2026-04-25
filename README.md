@@ -1,136 +1,135 @@
-_**ChurnSense AI — ML-Powered Customer Churn Prediction & Retention Platform**_
+# 🚀 ChurnSense AI — Customer Churn Prediction & Retention Platform
 
-ChurnSense AI is a machine learning–driven web application that predicts customer churn, segments users by risk level, and provides actionable insights to improve customer retention strategies in the telecom domain.
+**ChurnSense AI** is an end-to-end machine learning web application that predicts customer churn, segments users by risk levels, and provides actionable insights to improve retention strategies in the telecom domain.
 
-**📌 _Overview_**
+---
 
-Customer churn is a major challenge in the telecom industry. This project uses Machine Learning to:
+## 📌 Overview
 
-Predict whether a customer is likely to churn
+Customer churn is a critical challenge in the telecom industry. This project leverages **Machine Learning** to:
 
-Estimate churn probability
+* 🔮 Predict whether a customer will churn
+* 📊 Estimate churn probability
+* 🧩 Segment customers by risk level
+* 💡 Generate business insights for retention strategies
 
-Segment customers into risk levels
+---
 
-Provide business insights for retention strategies
+## 🖥️ Features
 
-**_🖥️_ _Features_**
+### 🔮 Predict Customer
 
-**_🔮 Predict Customer_**
+* Input individual customer details
+* Get **real-time churn prediction**
+* Visualize probability using **gauge charts**
 
-Input individual customer details
+**Output:**
 
-Get real-time churn probability
+* ✅ Likely to Stay
+* ⚠️ High Churn Risk
 
-Gauge chart visualization
+---
 
-Output:
+### 📂 Bulk Prediction
 
-✅ Likely to Stay
+* Upload CSV file with multiple customers
+* Get predictions & probabilities instantly
 
-⚠ High Churn Risk
+**Risk Segmentation:**
 
-**_📂 Bulk Prediction_**
+* 🟢 Low Risk
+* 🟡 Medium Risk
+* 🔴 High Risk
 
-Upload CSV file with multiple customers
+**Visualizations:**
 
-Get predictions and probabilities for all records
+* Churn probability distribution
+* Risk segmentation pie chart
 
-Risk segmentation:
+---
 
-Low Risk
+### 📊 Churn Analytics
 
-Medium Risk
+Analyze churn trends based on:
 
-High Risk
+* Contract Type
+* Internet Service Type
 
-Visualizations:
+➡️ Helps identify **high-risk customer segments**
 
-Churn probability distribution
+---
 
-Risk segmentation pie chart
+## 🤖 Model Intelligence
 
-**_📊 Churn Analytics_**
+* Top 15 features influencing churn
+* Key churn driver insights
+* Model Used: **Random Forest Classifier**
 
-Churn rate by:
+---
 
-Contract type
+## 📊 Dataset
 
-Internet service type
+The model is trained on telecom customer data including:
 
-Helps identify high-risk segments
+*  Customer demographics
+*  Service usage details
+*  Billing & payment information
 
-_**🤖 Model Intelligence**_
+**🎯 Target Variable:**
 
-Top 15 features influencing churn
+* `Churn (Yes / No)`
 
-Most important churn driver insight
+---
 
-Model summary:
+## 🛠️ Tech Stack
 
-Algorithm: Random Forest
+| Category            | Tools Used                   |
+| ------------------- | ---------------------------- |
+| 🤖 Machine Learning | Random Forest (scikit-learn) |
+| 📊 Data Processing  | pandas, NumPy                |
+| 📈 Visualization    | Plotly                       |
+| 🌐 Web App          | Streamlit                    |
+| 💾 Model Storage    | Pickle                       |
 
-**_📊 Dataset_**
+---
 
-The model is trained on a telecom dataset containing:
+## 🎯 Project Objective
 
-Customer demographics
+To build a scalable ML system that:
 
-Service usage details
+* Predicts customer churn accurately
+* Identifies high-risk users
+* Enables data-driven business decisions
 
-Billing information
+---
 
-🎯 Target Variable:
-Churn (Yes / No)
+## 🧠 Key Highlights
 
-**_🛠️ Tech Stack_**
+* ✅ End-to-end ML pipeline
+* ⚡ Real-time + bulk predictions
+* 📊 Interactive dashboards
+* 💼 Business-focused insights
 
-Machine Learning: Random Forest Classifier
+---
 
-Data Processing: pandas, NumPy
+## 📈 Future Improvements
 
-Modeling: scikit-learn
+* 🚀 Integrate advanced models (XGBoost, LightGBM)
+* 📉 Improve evaluation (F1-score, ROC-AUC)
+* ☁️ Deploy on cloud (AWS / Streamlit Cloud)
+* 🗄️ Add database integration
 
-Visualization: Plotly
+---
 
-Web App: Streamlit
+## 👤 Author
 
-Model Storage: Pickle
+**Vaibhavi Dave**
+📍 Mumbai, India
 
-**_🎯 Project Objective_**
+---
 
-To build an end-to-end ML system that: 
+## ⭐ Support
 
-Predicts churn accurately
+If you found this project useful, consider giving it a ⭐ on GitHub!
 
-Identifies high-risk customers
-
-Supports data-driven decision making
-
-**_🧠 Key Highlights_**
-
-End-to-end ML pipeline
-
-Real-time + bulk prediction
-
-Interactive dashboards
-
-Business-focused insights
-
-**_📈 Future Improvements_**
-
-Add advanced models (XGBoost, LightGBM)
-
-Improve evaluation (F1-score, ROC-AUC)
-
-Deploy on cloud (AWS / Streamlit Cloud)
-
-Integrate database support
-
-**_👤 Author_**
-
-Vaibhavi Dave
-
-**_⭐ Support_**
-
-If you found this useful, consider giving a ⭐ on GitHub!
+---
